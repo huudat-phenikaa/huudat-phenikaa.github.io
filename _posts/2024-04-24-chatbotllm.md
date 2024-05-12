@@ -11,7 +11,7 @@ excerpt: |
 # feature_text: |
 #   ## The Pot Still
 #   The modern pot still is a descendant of the alembic, an earlier distillation device
-feature_image: "https://images.viblo.asia/c3f96bcb-e4cf-4fd4-80fb-9caa6aefbeed.jpg"
+# feature_image: "https://images.viblo.asia/c3f96bcb-e4cf-4fd4-80fb-9caa6aefbeed.jpg"
 image: "https://images.viblo.asia/c3f96bcb-e4cf-4fd4-80fb-9caa6aefbeed.jpg"
 ---
 
