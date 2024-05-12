@@ -76,7 +76,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/banner.png" # Default image for sharing
+      image: "/CSE3.png" # Default image for sharing
   -
     scope:
       path: ""
