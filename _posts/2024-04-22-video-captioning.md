@@ -10,8 +10,8 @@ excerpt: |
 # feature_text: |
 #   ## The Pot Still
 #   The modern pot still is a descendant of the alembic, an earlier distillation device
-# feature_image: "https://picsum.photos/2560/600?image=733"
-# image: "https://picsum.photos/2560/600?image=733"
+feature_image: "https://images.viblo.asia/89737d32-444d-4df1-8950-652432e2fd3e.png"
+image: "https://images.viblo.asia/89737d32-444d-4df1-8950-652432e2fd3e.png"
 ---
 
 Xin chào các bạn. Chắc hẳn mọi người cũng đã từng nghe qua đến cái tên **Video Understanding** với rất nhiều các tác vụ con kèm theo đó là khá model nổi tiếng như:
